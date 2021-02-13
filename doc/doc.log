@@ -1,0 +1,1178 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.18)  13 FEB 2021 21:42
+entering extended mode
+**./doc.tex
+(doc.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count185
+\float@exts=\toks18
+\float@box=\box47
+\@float@everytoks=\toks19
+\@floatcapt=\box48
+)
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count186
+\l__pdf_internal_box=\box49
+) (doc.aux)
+\openout1 = `doc.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count187
+\scratchdimen=\dimen141
+\scratchbox=\box50
+\nofMPsegments=\count188
+\nofMParguments=\count189
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count190
+\MPscratchDim=\dimen142
+\MPnumerator=\count191
+\makeMPintoPDFobject=\count192
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+) [1
+
+{C:/Users/marco/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(doc.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+ [1])
+\tf@toc=\write3
+\openout3 = `doc.toc'.
+
+ [2]
+<./img/distribution1.png, id=15, 385.44pt x 248.93pt>
+File: ./img/distribution1.png Graphic file (type png)
+<use ./img/distribution1.png>
+Package pdftex.def Info: ./img/distribution1.png  used on input line 40.
+(pdftex.def)             Requested size: 231.26578pt x 149.35915pt.
+<./img/distribution2.png, id=17, 379.4175pt x 251.94125pt>
+File: ./img/distribution2.png Graphic file (type png)
+<use ./img/distribution2.png>
+Package pdftex.def Info: ./img/distribution2.png  used on input line 48.
+(pdftex.def)             Requested size: 227.65225pt x 151.16591pt.
+<./img/distribution3.png, id=18, 382.42876pt x 248.93pt>
+File: ./img/distribution3.png Graphic file (type png)
+<use ./img/distribution3.png>
+Package pdftex.def Info: ./img/distribution3.png  used on input line 56.
+(pdftex.def)             Requested size: 229.45901pt x 149.35915pt.
+<./img/distribution4.png, id=19, 382.42876pt x 248.93pt>
+File: ./img/distribution4.png Graphic file (type png)
+<use ./img/distribution4.png>
+Package pdftex.def Info: ./img/distribution4.png  used on input line 64.
+(pdftex.def)             Requested size: 229.45901pt x 149.35915pt.
+ [3
+
+ <./img/distribution1.png>] [4 <./img/distribution2.png> <./img/distribution3.p
+ng> <./img/distribution4.png>] [5]
+Overfull \hbox (0.33394pt too wide) in paragraph at lines 93--94
+[]\OT1/cmr/m/n/10 Multi-View Fea-ture Fu-sion Based Four Views-Model for Mam-mo
+-gram Clas-
+ []
+
+
+Overfull \hbox (11.61182pt too wide) in paragraph at lines 93--94
+\OT1/cmr/m/n/10 si-fi-ca-tion Us-ing-Con-vo-lu-tional Neu-ral Net-work,publishe
+d in 2019 26th Novem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+[6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+[7]
+<./img/scratchVal1.png, id=43, 373.395pt x 264.99pt>
+File: ./img/scratchVal1.png Graphic file (type png)
+<use ./img/scratchVal1.png>
+Package pdftex.def Info: ./img/scratchVal1.png  used on input line 180.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 180--181
+ [][] 
+ []
+
+<./img/scratchLoss1.png, id=44, 373.395pt x 264.99pt>
+File: ./img/scratchLoss1.png Graphic file (type png)
+<use ./img/scratchLoss1.png>
+Package pdftex.def Info: ./img/scratchLoss1.png  used on input line 184.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 184--185
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./img/cmScratch1.png, id=45, 345.29pt x 295.1025pt>
+File: ./img/cmScratch1.png Graphic file (type png)
+<use ./img/cmScratch1.png>
+Package pdftex.def Info: ./img/cmScratch1.png  used on input line 190.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 190--191
+[][] 
+ []
+
+[8
+
+] [9 <./img/scratchVal1.png> <./img/scratchLoss1.png> <./img/cmScratch1.png>]
+<./img/scratchVal2.png, id=55, 373.395pt x 264.99pt>
+File: ./img/scratchVal2.png Graphic file (type png)
+<use ./img/scratchVal2.png>
+Package pdftex.def Info: ./img/scratchVal2.png  used on input line 225.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 225--226
+ [][] 
+ []
+
+<./img/scratchLoss2.png, id=56, 373.395pt x 264.99pt>
+File: ./img/scratchLoss2.png Graphic file (type png)
+<use ./img/scratchLoss2.png>
+Package pdftex.def Info: ./img/scratchLoss2.png  used on input line 229.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 229--230
+ [][] 
+ []
+
+<./img/cmScratch2.png, id=57, 345.29pt x 295.1025pt>
+File: ./img/cmScratch2.png Graphic file (type png)
+<use ./img/cmScratch2.png>
+Package pdftex.def Info: ./img/cmScratch2.png  used on input line 235.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 235--236
+[][] 
+ []
+
+[10 <./img/scratchVal2.png> <./img/scratchLoss2.png> <./img/cmScratch2.png>]
+[11]
+<./img/scratchValDrop.png, id=67, 373.395pt x 264.99pt>
+File: ./img/scratchValDrop.png Graphic file (type png)
+<use ./img/scratchValDrop.png>
+Package pdftex.def Info: ./img/scratchValDrop.png  used on input line 317.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 317--318
+ [][] 
+ []
+
+<./img/scratchLossDrop.png, id=68, 373.395pt x 264.99pt>
+File: ./img/scratchLossDrop.png Graphic file (type png)
+<use ./img/scratchLossDrop.png>
+Package pdftex.def Info: ./img/scratchLossDrop.png  used on input line 321.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 321--322
+ [][] 
+ []
+
+<./img/cmScratchDrop.png, id=69, 345.29pt x 295.1025pt>
+File: ./img/cmScratchDrop.png Graphic file (type png)
+<use ./img/cmScratchDrop.png>
+Package pdftex.def Info: ./img/cmScratchDrop.png  used on input line 327.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 327--328
+[][] 
+ []
+
+[12 <./img/scratchValDrop.png> <./img/scratchLossDrop.png>]
+<./img/scratchVal4.png, id=76, 373.395pt x 264.99pt>
+File: ./img/scratchVal4.png Graphic file (type png)
+<use ./img/scratchVal4.png>
+Package pdftex.def Info: ./img/scratchVal4.png  used on input line 361.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 361--362
+ [][] 
+ []
+
+<./img/scratchLoss4.png, id=77, 373.395pt x 264.99pt>
+File: ./img/scratchLoss4.png Graphic file (type png)
+<use ./img/scratchLoss4.png>
+Package pdftex.def Info: ./img/scratchLoss4.png  used on input line 365.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 365--366
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./img/cmScratch4.png, id=78, 345.29pt x 295.1025pt>
+File: ./img/cmScratch4.png Graphic file (type png)
+<use ./img/cmScratch4.png>
+Package pdftex.def Info: ./img/cmScratch4.png  used on input line 371.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 371--372
+[][] 
+ []
+
+[13 <./img/cmScratchDrop.png>] [14 <./img/scratchVal4.png> <./img/scratchLoss4.
+png> <./img/cmScratch4.png>]
+<./img/scratchVal5.png, id=89, 373.395pt x 264.99pt>
+File: ./img/scratchVal5.png Graphic file (type png)
+<use ./img/scratchVal5.png>
+Package pdftex.def Info: ./img/scratchVal5.png  used on input line 408.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 408--409
+ [][] 
+ []
+
+<./img/scratchLoss5.png, id=90, 373.395pt x 264.99pt>
+File: ./img/scratchLoss5.png Graphic file (type png)
+<use ./img/scratchLoss5.png>
+Package pdftex.def Info: ./img/scratchLoss5.png  used on input line 412.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 412--413
+ [][] 
+ []
+
+<./img/cmScratch5.png, id=91, 345.29pt x 295.1025pt>
+File: ./img/cmScratch5.png Graphic file (type png)
+<use ./img/cmScratch5.png>
+Package pdftex.def Info: ./img/cmScratch5.png  used on input line 418.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 418--419
+[][] 
+ []
+
+<./img/rocScratch.png, id=92, 395.4775pt x 279.0425pt>
+File: ./img/rocScratch.png Graphic file (type png)
+<use ./img/rocScratch.png>
+Package pdftex.def Info: ./img/rocScratch.png  used on input line 427.
+(pdftex.def)             Requested size: 237.28833pt x 167.42679pt.
+
+Overfull \hbox (82.03938pt too wide) in paragraph at lines 427--428
+[][] 
+ []
+
+[15 <./img/scratchVal5.png> <./img/scratchLoss5.png> <./img/cmScratch5.png>]
+[16 <./img/rocScratch.png>] [17
+
+]
+<./img/scratchVal1_2.png, id=106, 373.395pt x 264.99pt>
+File: ./img/scratchVal1_2.png Graphic file (type png)
+<use ./img/scratchVal1_2.png>
+Package pdftex.def Info: ./img/scratchVal1_2.png  used on input line 504.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 504--505
+ [][] 
+ []
+
+<./img/scratchLoss1_2.png, id=107, 373.395pt x 264.99pt>
+File: ./img/scratchLoss1_2.png Graphic file (type png)
+<use ./img/scratchLoss1_2.png>
+Package pdftex.def Info: ./img/scratchLoss1_2.png  used on input line 508.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 508--509
+ [][] 
+ []
+
+<./img/cmScratch1_2.png, id=108, 343.2825pt x 295.1025pt>
+File: ./img/cmScratch1_2.png Graphic file (type png)
+<use ./img/cmScratch1_2.png>
+Package pdftex.def Info: ./img/cmScratch1_2.png  used on input line 514.
+(pdftex.def)             Requested size: 205.97107pt x 177.06285pt.
+
+Overfull \hbox (50.72212pt too wide) in paragraph at lines 514--515
+[][] 
+ []
+
+[18 <./img/scratchVal1_2.png> <./img/scratchLoss1_2.png>]
+<./img/dataOriginal.png, id=115, 257.96375pt x 252.945pt>
+File: ./img/dataOriginal.png Graphic file (type png)
+<use ./img/dataOriginal.png>
+Package pdftex.def Info: ./img/dataOriginal.png  used on input line 538.
+(pdftex.def)             Requested size: 154.77943pt x 151.76816pt.
+ [19 <./img/cmScratch1_2.png>]
+<./img/dataGen.png, id=120, 880.28876pt x 229.85875pt>
+File: ./img/dataGen.png Graphic file (type png)
+<use ./img/dataGen.png>
+Package pdftex.def Info: ./img/dataGen.png  used on input line 544.
+(pdftex.def)             Requested size: 334.5132pt x 87.34721pt.
+
+Overfull \hbox (331.0651pt too wide) in paragraph at lines 544--545
+[][] 
+ []
+
+<./img/scratchVal2_2.png, id=121, 373.395pt x 264.99pt>
+File: ./img/scratchVal2_2.png Graphic file (type png)
+<use ./img/scratchVal2_2.png>
+Package pdftex.def Info: ./img/scratchVal2_2.png  used on input line 571.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 571--572
+ [][] 
+ []
+
+<./img/scratchLoss2_2.png, id=122, 373.395pt x 264.99pt>
+File: ./img/scratchLoss2_2.png Graphic file (type png)
+<use ./img/scratchLoss2_2.png>
+Package pdftex.def Info: ./img/scratchLoss2_2.png  used on input line 575.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 575--576
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./img/cmScratch2_2.png, id=123, 343.2825pt x 295.1025pt>
+File: ./img/cmScratch2_2.png Graphic file (type png)
+<use ./img/cmScratch2_2.png>
+Package pdftex.def Info: ./img/cmScratch2_2.png  used on input line 581.
+(pdftex.def)             Requested size: 205.97107pt x 177.06285pt.
+
+Overfull \hbox (50.72212pt too wide) in paragraph at lines 581--582
+[][] 
+ []
+
+[20 <./img/dataOriginal.png> <./img/dataGen.png>] [21 <./img/scratchVal2_2.png>
+ <./img/scratchLoss2_2.png> <./img/cmScratch2_2.png>]
+<./img/scratchVal3_2.png, id=135, 373.395pt x 264.99pt>
+File: ./img/scratchVal3_2.png Graphic file (type png)
+<use ./img/scratchVal3_2.png>
+Package pdftex.def Info: ./img/scratchVal3_2.png  used on input line 619.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 619--620
+ [][] 
+ []
+
+<./img/scratchLoss3_2.png, id=136, 373.395pt x 264.99pt>
+File: ./img/scratchLoss3_2.png Graphic file (type png)
+<use ./img/scratchLoss3_2.png>
+Package pdftex.def Info: ./img/scratchLoss3_2.png  used on input line 623.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 623--624
+ [][] 
+ []
+
+<./img/cmScratch3_2.png, id=137, 343.2825pt x 295.1025pt>
+File: ./img/cmScratch3_2.png Graphic file (type png)
+<use ./img/cmScratch3_2.png>
+Package pdftex.def Info: ./img/cmScratch3_2.png  used on input line 629.
+(pdftex.def)             Requested size: 205.97107pt x 177.06285pt.
+
+Overfull \hbox (50.72212pt too wide) in paragraph at lines 629--630
+[][] 
+ []
+
+[22 <./img/scratchVal3_2.png> <./img/scratchLoss3_2.png> <./img/cmScratch3_2.pn
+g>]
+<./img/scratchVal4_2.png, id=144, 373.395pt x 264.99pt>
+File: ./img/scratchVal4_2.png Graphic file (type png)
+<use ./img/scratchVal4_2.png>
+Package pdftex.def Info: ./img/scratchVal4_2.png  used on input line 665.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 665--666
+ [][] 
+ []
+
+<./img/scratchLoss4_2.png, id=145, 373.395pt x 264.99pt>
+File: ./img/scratchLoss4_2.png Graphic file (type png)
+<use ./img/scratchLoss4_2.png>
+Package pdftex.def Info: ./img/scratchLoss4_2.png  used on input line 669.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 669--670
+ [][] 
+ []
+
+<./img/cmScratch4_2.png, id=146, 343.2825pt x 295.1025pt>
+File: ./img/cmScratch4_2.png Graphic file (type png)
+<use ./img/cmScratch4_2.png>
+Package pdftex.def Info: ./img/cmScratch4_2.png  used on input line 675.
+(pdftex.def)             Requested size: 205.97107pt x 177.06285pt.
+
+Overfull \hbox (50.72212pt too wide) in paragraph at lines 675--676
+[][] 
+ []
+
+[23 <./img/scratchVal4_2.png> <./img/scratchLoss4_2.png> <./img/cmScratch4_2.pn
+g>]
+<./img/rocScratch2.png, id=153, 395.4775pt x 279.0425pt>
+File: ./img/rocScratch2.png Graphic file (type png)
+<use ./img/rocScratch2.png>
+Package pdftex.def Info: ./img/rocScratch2.png  used on input line 684.
+(pdftex.def)             Requested size: 237.28833pt x 167.42679pt.
+
+Overfull \hbox (82.03938pt too wide) in paragraph at lines 684--685
+[][] 
+ []
+
+[24 <./img/rocScratch2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 730--731
+
+ []
+
+[25
+
+]
+<./img/preTrainVal3_fe.png, id=162, 373.395pt x 264.99pt>
+File: ./img/preTrainVal3_fe.png Graphic file (type png)
+<use ./img/preTrainVal3_fe.png>
+Package pdftex.def Info: ./img/preTrainVal3_fe.png  used on input line 760.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 760--761
+ [][] 
+ []
+
+<./img/preTrainLoss3_fe.png, id=163, 373.395pt x 264.99pt>
+File: ./img/preTrainLoss3_fe.png Graphic file (type png)
+<use ./img/preTrainLoss3_fe.png>
+Package pdftex.def Info: ./img/preTrainLoss3_fe.png  used on input line 764.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 764--765
+ [][] 
+ []
+
+<./img/cmPreTrain3_fe.png, id=164, 345.29pt x 295.1025pt>
+File: ./img/cmPreTrain3_fe.png Graphic file (type png)
+<use ./img/cmPreTrain3_fe.png>
+Package pdftex.def Info: ./img/cmPreTrain3_fe.png  used on input line 770.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 770--771
+[][] 
+ []
+
+[26 <./img/preTrainVal3_fe.png> <./img/preTrainLoss3_fe.png> <./img/cmPreTrain3
+_fe.png>]
+<./img/preTrainVal3_ft.png, id=171, 373.395pt x 264.99pt>
+File: ./img/preTrainVal3_ft.png Graphic file (type png)
+<use ./img/preTrainVal3_ft.png>
+Package pdftex.def Info: ./img/preTrainVal3_ft.png  used on input line 807.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 807--808
+ [][] 
+ []
+
+<./img/preTrainLoss3_ft.png, id=172, 373.395pt x 264.99pt>
+File: ./img/preTrainLoss3_ft.png Graphic file (type png)
+<use ./img/preTrainLoss3_ft.png>
+Package pdftex.def Info: ./img/preTrainLoss3_ft.png  used on input line 811.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 811--812
+ [][] 
+ []
+
+<./img/cmPreTrain3_ft.png, id=173, 345.29pt x 295.1025pt>
+File: ./img/cmPreTrain3_ft.png Graphic file (type png)
+<use ./img/cmPreTrain3_ft.png>
+Package pdftex.def Info: ./img/cmPreTrain3_ft.png  used on input line 817.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 817--818
+[][] 
+ []
+
+[27 <./img/preTrainVal3_ft.png> <./img/preTrainLoss3_ft.png>]
+<./img/rocVGG16.png, id=179, 395.4775pt x 279.0425pt>
+File: ./img/rocVGG16.png Graphic file (type png)
+<use ./img/rocVGG16.png>
+Package pdftex.def Info: ./img/rocVGG16.png  used on input line 825.
+(pdftex.def)             Requested size: 237.28833pt x 167.42679pt.
+
+Overfull \hbox (82.03938pt too wide) in paragraph at lines 825--826
+[][] 
+ []
+
+[28 <./img/cmPreTrain3_ft.png> <./img/rocVGG16.png>]
+<./img/preTrainValVGG19_fe.png, id=185, 373.395pt x 264.99pt>
+File: ./img/preTrainValVGG19_fe.png Graphic file (type png)
+<use ./img/preTrainValVGG19_fe.png>
+Package pdftex.def Info: ./img/preTrainValVGG19_fe.png  used on input line 863.
+
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 863--864
+ [][] 
+ []
+
+<./img/preTrainLossVGG19_fe.png, id=186, 373.395pt x 264.99pt>
+File: ./img/preTrainLossVGG19_fe.png Graphic file (type png)
+<use ./img/preTrainLossVGG19_fe.png>
+Package pdftex.def Info: ./img/preTrainLossVGG19_fe.png  used on input line 867
+.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 867--868
+ [][] 
+ []
+
+<./img/cmPreTrainVGG19_fe.png, id=187, 345.29pt x 295.1025pt>
+File: ./img/cmPreTrainVGG19_fe.png Graphic file (type png)
+<use ./img/cmPreTrainVGG19_fe.png>
+Package pdftex.def Info: ./img/cmPreTrainVGG19_fe.png  used on input line 873.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 873--874
+[][] 
+ []
+
+[29 <./img/preTrainValVGG19_fe.png> <./img/preTrainLossVGG19_fe.png> <./img/cmP
+reTrainVGG19_fe.png>]
+<./img/preTrainValVGG19_ft.png, id=194, 373.395pt x 264.99pt>
+File: ./img/preTrainValVGG19_ft.png Graphic file (type png)
+<use ./img/preTrainValVGG19_ft.png>
+Package pdftex.def Info: ./img/preTrainValVGG19_ft.png  used on input line 910.
+
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 910--911
+ [][] 
+ []
+
+<./img/preTrainLossVGG19_ft.png, id=195, 373.395pt x 264.99pt>
+File: ./img/preTrainLossVGG19_ft.png Graphic file (type png)
+<use ./img/preTrainLossVGG19_ft.png>
+Package pdftex.def Info: ./img/preTrainLossVGG19_ft.png  used on input line 914
+.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 914--915
+ [][] 
+ []
+
+<./img/cmPreTrainVGG19_ft.png, id=196, 345.29pt x 295.1025pt>
+File: ./img/cmPreTrainVGG19_ft.png Graphic file (type png)
+<use ./img/cmPreTrainVGG19_ft.png>
+Package pdftex.def Info: ./img/cmPreTrainVGG19_ft.png  used on input line 920.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 920--921
+[][] 
+ []
+
+[30 <./img/preTrainValVGG19_ft.png> <./img/preTrainLossVGG19_ft.png>]
+<./img/rocVGG19.png, id=203, 395.4775pt x 279.0425pt>
+File: ./img/rocVGG19.png Graphic file (type png)
+<use ./img/rocVGG19.png>
+Package pdftex.def Info: ./img/rocVGG19.png  used on input line 928.
+(pdftex.def)             Requested size: 237.28833pt x 167.42679pt.
+
+Overfull \hbox (82.03938pt too wide) in paragraph at lines 928--929
+[][] 
+ []
+
+[31 <./img/cmPreTrainVGG19_ft.png> <./img/rocVGG19.png>]
+<./img/preTrainValResNet50_fe.png, id=209, 373.395pt x 264.99pt>
+File: ./img/preTrainValResNet50_fe.png Graphic file (type png)
+<use ./img/preTrainValResNet50_fe.png>
+Package pdftex.def Info: ./img/preTrainValResNet50_fe.png  used on input line 9
+69.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 969--970
+ [][] 
+ []
+
+<./img/preTrainLossResNet50_fe.png, id=210, 373.395pt x 264.99pt>
+File: ./img/preTrainLossResNet50_fe.png Graphic file (type png)
+<use ./img/preTrainLossResNet50_fe.png>
+Package pdftex.def Info: ./img/preTrainLossResNet50_fe.png  used on input line 
+973.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 973--974
+ [][] 
+ []
+
+<./img/cmPreTrainResNet50_fe.png, id=211, 345.29pt x 295.1025pt>
+File: ./img/cmPreTrainResNet50_fe.png Graphic file (type png)
+<use ./img/cmPreTrainResNet50_fe.png>
+Package pdftex.def Info: ./img/cmPreTrainResNet50_fe.png  used on input line 97
+9.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 979--980
+[][] 
+ []
+
+[32 <./img/preTrainValResNet50_fe.png> <./img/preTrainLossResNet50_fe.png> <./i
+mg/cmPreTrainResNet50_fe.png>]
+<./img/preTrainValResNet50_ft.png, id=218, 373.395pt x 264.99pt>
+File: ./img/preTrainValResNet50_ft.png Graphic file (type png)
+<use ./img/preTrainValResNet50_ft.png>
+Package pdftex.def Info: ./img/preTrainValResNet50_ft.png  used on input line 1
+016.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1016--1017
+ [][] 
+ []
+
+<./img/preTrainLossResNet50_ft.png, id=219, 373.395pt x 264.99pt>
+File: ./img/preTrainLossResNet50_ft.png Graphic file (type png)
+<use ./img/preTrainLossResNet50_ft.png>
+Package pdftex.def Info: ./img/preTrainLossResNet50_ft.png  used on input line 
+1020.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1020--1021
+ [][] 
+ []
+
+<./img/cmPreTrainResNet50_ft.png, id=220, 345.29pt x 295.1025pt>
+File: ./img/cmPreTrainResNet50_ft.png Graphic file (type png)
+<use ./img/cmPreTrainResNet50_ft.png>
+Package pdftex.def Info: ./img/cmPreTrainResNet50_ft.png  used on input line 10
+26.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 1026--1027
+[][] 
+ []
+
+[33 <./img/preTrainValResNet50_ft.png> <./img/preTrainLossResNet50_ft.png>]
+<./img/rocResNet50.png, id=226, 395.4775pt x 279.0425pt>
+File: ./img/rocResNet50.png Graphic file (type png)
+<use ./img/rocResNet50.png>
+Package pdftex.def Info: ./img/rocResNet50.png  used on input line 1034.
+(pdftex.def)             Requested size: 237.28833pt x 167.42679pt.
+
+Overfull \hbox (82.03938pt too wide) in paragraph at lines 1034--1035
+[][] 
+ []
+
+[34 <./img/cmPreTrainResNet50_ft.png> <./img/rocResNet50.png>]
+<./img/preTrainValInception_fe.png, id=232, 373.395pt x 264.99pt>
+File: ./img/preTrainValInception_fe.png Graphic file (type png)
+<use ./img/preTrainValInception_fe.png>
+Package pdftex.def Info: ./img/preTrainValInception_fe.png  used on input line 
+1075.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1075--1076
+ [][] 
+ []
+
+<./img/preTrainLossInception_fe.png, id=233, 373.395pt x 264.99pt>
+File: ./img/preTrainLossInception_fe.png Graphic file (type png)
+<use ./img/preTrainLossInception_fe.png>
+Package pdftex.def Info: ./img/preTrainLossInception_fe.png  used on input line
+ 1079.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1079--1080
+ [][] 
+ []
+
+<./img/cmPreTrainInception_fe.png, id=234, 345.29pt x 295.1025pt>
+File: ./img/cmPreTrainInception_fe.png Graphic file (type png)
+<use ./img/cmPreTrainInception_fe.png>
+Package pdftex.def Info: ./img/cmPreTrainInception_fe.png  used on input line 1
+085.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 1085--1086
+[][] 
+ []
+
+[35 <./img/preTrainValInception_fe.png> <./img/preTrainLossInception_fe.png> <.
+/img/cmPreTrainInception_fe.png>]
+<./img/preTrainValInception_ft.png, id=241, 373.395pt x 264.99pt>
+File: ./img/preTrainValInception_ft.png Graphic file (type png)
+<use ./img/preTrainValInception_ft.png>
+Package pdftex.def Info: ./img/preTrainValInception_ft.png  used on input line 
+1122.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1122--1123
+ [][] 
+ []
+
+<./img/preTrainLossInception_ft.png, id=242, 373.395pt x 264.99pt>
+File: ./img/preTrainLossInception_ft.png Graphic file (type png)
+<use ./img/preTrainLossInception_ft.png>
+Package pdftex.def Info: ./img/preTrainLossInception_ft.png  used on input line
+ 1126.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1126--1127
+ [][] 
+ []
+
+<./img/cmPreTrainInception_ft.png, id=243, 345.29pt x 295.1025pt>
+File: ./img/cmPreTrainInception_ft.png Graphic file (type png)
+<use ./img/cmPreTrainInception_ft.png>
+Package pdftex.def Info: ./img/cmPreTrainInception_ft.png  used on input line 1
+132.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 1132--1133
+[][] 
+ []
+
+[36 <./img/preTrainValInception_ft.png> <./img/preTrainLossInception_ft.png>]
+<./img/rocInception.png, id=250, 395.4775pt x 279.0425pt>
+File: ./img/rocInception.png Graphic file (type png)
+<use ./img/rocInception.png>
+Package pdftex.def Info: ./img/rocInception.png  used on input line 1140.
+(pdftex.def)             Requested size: 237.28833pt x 167.42679pt.
+
+Overfull \hbox (82.03938pt too wide) in paragraph at lines 1140--1141
+[][] 
+ []
+
+<./img/rocPretrain1.png, id=251, 395.4775pt x 279.0425pt>
+File: ./img/rocPretrain1.png Graphic file (type png)
+<use ./img/rocPretrain1.png>
+Package pdftex.def Info: ./img/rocPretrain1.png  used on input line 1149.
+(pdftex.def)             Requested size: 237.28833pt x 167.42679pt.
+
+Overfull \hbox (82.03938pt too wide) in paragraph at lines 1149--1150
+[][] 
+ []
+
+[37 <./img/cmPreTrainInception_ft.png> <./img/rocInception.png>] [38 <./img/roc
+Pretrain1.png>]
+Overfull \hbox (6.97281pt too wide) in paragraph at lines 1166--1169
+\OT1/cmr/m/n/10 Moreover we im-ported the same pre-trained net-works, trained o
+n im-a-genet dataset. 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 1199--1199
+[]\OT1/cmtt/m/n/10 weights = { 0: weightsBenign * 2,  1: (weightsMalignant + 0.
+3) * 2}[] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+200.
+(C:\Users\marco\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1200.
+
+
+[39
+
+]
+<./img/preTrainValVGG16_ft_3_2.png, id=265, 373.395pt x 264.99pt>
+File: ./img/preTrainValVGG16_ft_3_2.png Graphic file (type png)
+<use ./img/preTrainValVGG16_ft_3_2.png>
+Package pdftex.def Info: ./img/preTrainValVGG16_ft_3_2.png  used on input line 
+1234.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1234--1235
+ [][] 
+ []
+
+<./img/preTrainLossVGG16_ft_3_2.png, id=266, 373.395pt x 264.99pt>
+File: ./img/preTrainLossVGG16_ft_3_2.png Graphic file (type png)
+<use ./img/preTrainLossVGG16_ft_3_2.png>
+Package pdftex.def Info: ./img/preTrainLossVGG16_ft_3_2.png  used on input line
+ 1238.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1238--1239
+ [][] 
+ []
+
+<./img/cmPreTrainVGG16_ft_3_2.png, id=267, 343.2825pt x 295.1025pt>
+File: ./img/cmPreTrainVGG16_ft_3_2.png Graphic file (type png)
+<use ./img/cmPreTrainVGG16_ft_3_2.png>
+Package pdftex.def Info: ./img/cmPreTrainVGG16_ft_3_2.png  used on input line 1
+245.
+(pdftex.def)             Requested size: 205.97107pt x 177.06285pt.
+
+Overfull \hbox (50.72212pt too wide) in paragraph at lines 1245--1246
+[][] 
+ []
+
+[40 <./img/preTrainValVGG16_ft_3_2.png> <./img/preTrainLossVGG16_ft_3_2.png>]
+<./img/preTrainValVGG19_ft_3_2.png, id=273, 373.395pt x 264.99pt>
+File: ./img/preTrainValVGG19_ft_3_2.png Graphic file (type png)
+<use ./img/preTrainValVGG19_ft_3_2.png>
+Package pdftex.def Info: ./img/preTrainValVGG19_ft_3_2.png  used on input line 
+1284.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1284--1285
+ [][] 
+ []
+
+<./img/preTrainLossVGG19_ft_3_2.png, id=274, 373.395pt x 264.99pt>
+File: ./img/preTrainLossVGG19_ft_3_2.png Graphic file (type png)
+<use ./img/preTrainLossVGG19_ft_3_2.png>
+Package pdftex.def Info: ./img/preTrainLossVGG19_ft_3_2.png  used on input line
+ 1288.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1288--1289
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./img/cmPreTrainVGG19_ft_3_2.png, id=275, 343.2825pt x 295.1025pt>
+File: ./img/cmPreTrainVGG19_ft_3_2.png Graphic file (type png)
+<use ./img/cmPreTrainVGG19_ft_3_2.png>
+Package pdftex.def Info: ./img/cmPreTrainVGG19_ft_3_2.png  used on input line 1
+294.
+(pdftex.def)             Requested size: 205.97107pt x 177.06285pt.
+
+Overfull \hbox (50.72212pt too wide) in paragraph at lines 1294--1295
+[][] 
+ []
+
+[41 <./img/cmPreTrainVGG16_ft_3_2.png>] [42 <./img/preTrainValVGG19_ft_3_2.png>
+ <./img/preTrainLossVGG19_ft_3_2.png> <./img/cmPreTrainVGG19_ft_3_2.png>]
+<./img/preTrainValResNet_ft_3_2.png, id=287, 373.395pt x 264.99pt>
+File: ./img/preTrainValResNet_ft_3_2.png Graphic file (type png)
+<use ./img/preTrainValResNet_ft_3_2.png>
+Package pdftex.def Info: ./img/preTrainValResNet_ft_3_2.png  used on input line
+ 1332.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1332--1333
+ [][] 
+ []
+
+<./img/preTrainLossResNet_ft_3_2.png, id=288, 373.395pt x 264.99pt>
+File: ./img/preTrainLossResNet_ft_3_2.png Graphic file (type png)
+<use ./img/preTrainLossResNet_ft_3_2.png>
+Package pdftex.def Info: ./img/preTrainLossResNet_ft_3_2.png  used on input lin
+e 1336.
+(pdftex.def)             Requested size: 171.76378pt x 121.89687pt.
+
+Overfull \hbox (16.51483pt too wide) in paragraph at lines 1336--1337
+ [][] 
+ []
+
+<./img/cmPreTrainResNet_ft_3_2.png, id=289, 82.3878pt x 70.8246pt>
+File: ./img/cmPreTrainResNet_ft_3_2.png Graphic file (type png)
+<use ./img/cmPreTrainResNet_ft_3_2.png>
+Package pdftex.def Info: ./img/cmPreTrainResNet_ft_3_2.png  used on input line 
+1342.
+(pdftex.def)             Requested size: 214.20819pt x 184.14388pt.
+
+Overfull \hbox (58.95924pt too wide) in paragraph at lines 1342--1343
+[][] 
+ []
+
+[43 <./img/preTrainValResNet_ft_3_2.png> <./img/preTrainLossResNet_ft_3_2.png> 
+<./img/cmPreTrainResNet_ft_3_2.png>]
+<./img/preTrainValInception_ft_3_2.png, id=296, 374.39874pt x 264.99pt>
+File: ./img/preTrainValInception_ft_3_2.png Graphic file (type png)
+<use ./img/preTrainValInception_ft_3_2.png>
+Package pdftex.def Info: ./img/preTrainValInception_ft_3_2.png  used on input l
+ine 1380.
+(pdftex.def)             Requested size: 172.22551pt x 121.89687pt.
+
+Overfull \hbox (16.97656pt too wide) in paragraph at lines 1380--1381
+ [][] 
+ []
+
+<./img/preTrainLossInception_ft_3_2.png, id=297, 374.39874pt x 264.99pt>
+File: ./img/preTrainLossInception_ft_3_2.png Graphic file (type png)
+<use ./img/preTrainLossInception_ft_3_2.png>
+Package pdftex.def Info: ./img/preTrainLossInception_ft_3_2.png  used on input 
+line 1384.
+(pdftex.def)             Requested size: 172.22551pt x 121.89687pt.
+
+Overfull \hbox (16.97656pt too wide) in paragraph at lines 1384--1385
+ [][] 
+ []
+
+<./img/cmPreTrainInception_ft_3_2.png, id=298, 343.2825pt x 295.1025pt>
+File: ./img/cmPreTrainInception_ft_3_2.png Graphic file (type png)
+<use ./img/cmPreTrainInception_ft_3_2.png>
+Package pdftex.def Info: ./img/cmPreTrainInception_ft_3_2.png  used on input li
+ne 1390.
+(pdftex.def)             Requested size: 205.97107pt x 177.06285pt.
+
+Overfull \hbox (50.72212pt too wide) in paragraph at lines 1390--1391
+[][] 
+ []
+
+[44 <./img/preTrainValInception_ft_3_2.png> <./img/preTrainLossInception_ft_3_2
+.png> <./img/cmPreTrainInception_ft_3_2.png>]
+<./img/rocPretrain3_2.png, id=305, 395.4775pt x 279.0425pt>
+File: ./img/rocPretrain3_2.png Graphic file (type png)
+<use ./img/rocPretrain3_2.png>
+Package pdftex.def Info: ./img/rocPretrain3_2.png  used on input line 1399.
+(pdftex.def)             Requested size: 237.28833pt x 167.42679pt.
+
+Overfull \hbox (82.03938pt too wide) in paragraph at lines 1399--1400
+[][] 
+ []
+
+[45 <./img/rocPretrain3_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+
+ []
+
+<./img/siamese_concat.png, id=310, 942.52126pt x 851.18pt>
+File: ./img/siamese_concat.png Graphic file (type png)
+<use ./img/siamese_concat.png>
+Package pdftex.def Info: ./img/siamese_concat.png  used on input line 1427.
+(pdftex.def)             Requested size: 301.61296pt x 272.38315pt.
+
+Overfull \hbox (146.36401pt too wide) in paragraph at lines 1427--1428
+[][] 
+ []
+
+[46
+
+ <./img/siamese_concat.png>]
+<./img/siamese_concat_accuracy.png, id=315, 373.395pt x 264.99pt>
+File: ./img/siamese_concat_accuracy.png Graphic file (type png)
+<use ./img/siamese_concat_accuracy.png>
+Package pdftex.def Info: ./img/siamese_concat_accuracy.png  used on input line 
+1446.
+(pdftex.def)             Requested size: 149.35535pt x 105.99411pt.
+<./img/siamese_concat_loss.png, id=316, 373.395pt x 264.99pt>
+File: ./img/siamese_concat_loss.png Graphic file (type png)
+<use ./img/siamese_concat_loss.png>
+Package pdftex.def Info: ./img/siamese_concat_loss.png  used on input line 1450
+.
+(pdftex.def)             Requested size: 149.35535pt x 105.99411pt.
+<./img/siamese_diff.png, id=317, 923.45pt x 851.18pt>
+File: ./img/siamese_diff.png Graphic file (type png)
+<use ./img/siamese_diff.png>
+Package pdftex.def Info: ./img/siamese_diff.png  used on input line 1458.
+(pdftex.def)             Requested size: 295.51003pt x 272.38315pt.
+
+Overfull \hbox (140.26108pt too wide) in paragraph at lines 1458--1459
+[][] 
+ []
+
+[47 <./img/siamese_concat_accuracy.png> <./img/siamese_concat_loss.png> <./img/
+siamese_diff.png>]
+File: ./img/siamese_concat_accuracy.png Graphic file (type png)
+<use ./img/siamese_concat_accuracy.png>
+Package pdftex.def Info: ./img/siamese_concat_accuracy.png  used on input line 
+1479.
+(pdftex.def)             Requested size: 149.35535pt x 105.99411pt.
+File: ./img/siamese_concat_loss.png Graphic file (type png)
+<use ./img/siamese_concat_loss.png>
+Package pdftex.def Info: ./img/siamese_concat_loss.png  used on input line 1483
+.
+(pdftex.def)             Requested size: 149.35535pt x 105.99411pt.
+<./img/abnormality.png, id=323, 257.96375pt x 252.945pt>
+File: ./img/abnormality.png Graphic file (type png)
+<use ./img/abnormality.png>
+Package pdftex.def Info: ./img/abnormality.png  used on input line 1514.
+(pdftex.def)             Requested size: 144.4587pt x 141.64822pt.
+<./img/baseline.png, id=324, 257.96375pt x 252.945pt>
+File: ./img/baseline.png Graphic file (type png)
+<use ./img/baseline.png>
+Package pdftex.def Info: ./img/baseline.png  used on input line 1519.
+(pdftex.def)             Requested size: 144.4587pt x 141.64822pt.
+ [48]
+Underfull \hbox (badness 10000) in paragraph at lines 1522--1523
+
+ []
+
+<./img/baselineAvg.png, id=329, 257.96375pt x 252.945pt>
+File: ./img/baselineAvg.png Graphic file (type png)
+<use ./img/baselineAvg.png>
+Package pdftex.def Info: ./img/baselineAvg.png  used on input line 1528.
+(pdftex.def)             Requested size: 144.4587pt x 141.64822pt.
+<./img/diffBaseline.png, id=330, 257.96375pt x 252.945pt>
+File: ./img/diffBaseline.png Graphic file (type png)
+<use ./img/diffBaseline.png>
+Package pdftex.def Info: ./img/diffBaseline.png  used on input line 1533.
+(pdftex.def)             Requested size: 144.4587pt x 141.64822pt.
+[49 <./img/abnormality.png> <./img/baseline.png> <./img/baselineAvg.png> <./img
+/diffBaseline.png>]
+<./img/cmEnsAvg2_1.png, id=338, 345.29pt x 295.1025pt>
+File: ./img/cmEnsAvg2_1.png Graphic file (type png)
+<use ./img/cmEnsAvg2_1.png>
+Package pdftex.def Info: ./img/cmEnsAvg2_1.png  used on input line 1568.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 1568--1569
+[][] 
+ []
+
+[50
+
+ <./img/cmEnsAvg2_1.png>]
+<./img/cmEnsMaj2_1.png, id=343, 345.29pt x 295.1025pt>
+File: ./img/cmEnsMaj2_1.png Graphic file (type png)
+<use ./img/cmEnsMaj2_1.png>
+Package pdftex.def Info: ./img/cmEnsMaj2_1.png  used on input line 1588.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 1588--1589
+[][] 
+ []
+
+<./img/cmEnsAvg3_1.png, id=344, 345.29pt x 295.1025pt>
+File: ./img/cmEnsAvg3_1.png Graphic file (type png)
+<use ./img/cmEnsAvg3_1.png>
+Package pdftex.def Info: ./img/cmEnsAvg3_1.png  used on input line 1612.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 1612--1613
+[][] 
+ []
+
+[51 <./img/cmEnsMaj2_1.png>]
+<./img/cmEnsMaj3_1.png, id=349, 345.29pt x 295.1025pt>
+File: ./img/cmEnsMaj3_1.png Graphic file (type png)
+<use ./img/cmEnsMaj3_1.png>
+Package pdftex.def Info: ./img/cmEnsMaj3_1.png  used on input line 1632.
+(pdftex.def)             Requested size: 207.17558pt x 177.06285pt.
+
+Overfull \hbox (51.92664pt too wide) in paragraph at lines 1632--1633
+[][] 
+ []
+
+[52 <./img/cmEnsAvg3_1.png> <./img/cmEnsMaj3_1.png>]
+<./img/cmEnsAvg3_2.png, id=355, 343.2825pt x 295.1025pt>
+File: ./img/cmEnsAvg3_2.png Graphic file (type png)
+<use ./img/cmEnsAvg3_2.png>
+Package pdftex.def Info: ./img/cmEnsAvg3_2.png  used on input line 1656.
+(pdftex.def)             Requested size: 205.97107pt x 177.06285pt.
+
+Overfull \hbox (50.72212pt too wide) in paragraph at lines 1656--1657
+[][] 
+ []
+
+<./img/cmEnsMaj3_2.png, id=356, 343.2825pt x 295.1025pt>
+File: ./img/cmEnsMaj3_2.png Graphic file (type png)
+<use ./img/cmEnsMaj3_2.png>
+Package pdftex.def Info: ./img/cmEnsMaj3_2.png  used on input line 1676.
+(pdftex.def)             Requested size: 205.97107pt x 177.06285pt.
+
+Overfull \hbox (50.72212pt too wide) in paragraph at lines 1676--1677
+[][] 
+ []
+
+[53 <./img/cmEnsAvg3_2.png>] [54 <./img/cmEnsMaj3_2.png>] (doc.aux) ) 
+Here is how much of TeX's memory you used:
+ 1846 strings out of 479618
+ 35294 string characters out of 2865026
+ 304547 words of memory out of 3000000
+ 18956 multiletter control sequences out of 15000+200000
+ 406395 words of font info for 37 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,9n,74p,386b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users
+\marco\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/
+Users/marco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10
+.pfb><C:/Users/marco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Users/marco/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Users/marco/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr17.pfb><C:/Users/marco/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/marco/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/marco/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on doc.pdf (55 pages, 1343586 bytes).
+PDF statistics:
+ 395 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 456 words of extra memory for PDF output out of 10000 (max. 10000000)
+
